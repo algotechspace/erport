@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:Dolibarr 20.0.2
+UID:DOLIBARR-USERID-59b4bc2e-1
+N:SuperAdmin;Marvin Cimacio;;;
+FN;ENCODING=QUOTED:Marvin Cimacio SuperAdmin
+ORG;ENCODING=QUOTED:marianne suites
+URL:https://app.mariannesuites.com/
+ADR;TYPE=WORK;ENCODING=QUOTED:;;Cagayan de Oro City;Cagayan de Oro City;;9000;Philippines
+REV:20250318T061422Z
+END:VCARD
